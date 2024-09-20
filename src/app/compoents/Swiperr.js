@@ -12,7 +12,7 @@ function Swiperr() {
       centeredSlides={true}
       loop={true}
       autoplay={{
-        delay: 10000,
+        delay: 5000,
         disableOnInteraction: false,
       }}
       modules={[Autoplay]}
@@ -21,13 +21,13 @@ function Swiperr() {
       <SwiperSlide>
         <img
           className="banner"
-          src="https://static.vecteezy.com/system/resources/previews/003/310/977/non_2x/happy-diwali-holiday-background-for-light-festival-of-india-vector.jpg"
+          src="https://images5.alphacoders.com/415/415021.jpg"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
           className="banner"
-          src="https://www.wallpapertip.com/wmimgs/59-597982_happy-diwali-crackers-hd.jpg"
+          src="https://cdn.wallpapersafari.com/49/22/cUM9SQ.jpg"
         />
       </SwiperSlide>
     </Swiper>
